@@ -1,0 +1,12 @@
+body {
+    background-color: #F0F0F0;
+}
+
+.block-paper {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left: 46%;
+    margin: -125px 0 0 -125px;
+}
