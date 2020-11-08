@@ -4,8 +4,6 @@ import { withStyles } from '@material-ui/core/styles';
 import { createMuiTheme } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 import Logo from "../images/bizkit.png";
-import LeftBlock from "../images/Rectangle.png";
-import Header from "../images/Surface.png";
 import Paper from "@material-ui/core/Paper";
 import Button from "@material-ui/core/Button";
 
@@ -49,7 +47,7 @@ const useStyles = theme => ({
         right: '0%',
         bottom: '91.56%',
         background: '#FFFFFF',
-        width: '1670px',
+        width: '1652px',
         height: '87px',
         top: '-11px'
     },
